@@ -29,7 +29,7 @@
 
 Міжнародне порівняння: співвідношення оплати праці в охороні здоров’я та загального галузевого показника в Україні, Франції, Німеччині, Польщі та Чехії.
 
-## Візуалізація Power BI [📊 Завантажити Power BI Dashboard](Power%20BI/medical-staff-ukraine.pbix)
+## Візуалізація Power BI [📊 Завантажити Power BI Dashboard](https://github.com/tersvitlana68/medical-staff-ukraine/raw/refs/heads/main/Power%20BI/medical-staff-ukraine.pbix)
 
 ![Порівняння оплати праці в медицині](dashboard.png)
 
